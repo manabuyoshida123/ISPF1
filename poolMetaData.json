@@ -1,7 +1,8 @@
 {
     "name": "Infinia Stake Pool Fukuoka",
-    "description": " 福岡から最先端の情報発信[安心・安全]をモットーに日本語、英語、中国語対応のステークプールです ",
+    "description": "福岡から最先端の情報発信[安心・安全]をモットーに日本語、英語、中国語対応のステークプールです",
     "ticker": "ISPF",
     "homepage": "https://infiniastakepool.com/",
-    "extended": "https://raw.githubusercontent.com/manabuyoshida123/ISPF/main/ExdependentMeta.json"
+    "extended": "https://raw.githubusercontent.com/manabuyoshida123/ISPF/main/ExdependentMeta.json",
+    "nonce":"1704541259"
 }
